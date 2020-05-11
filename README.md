@@ -4,7 +4,7 @@
 
 ### Download and install
 
-You can use this [link](https://greasyfork.org/en/scripts/396419-stack-overflow-query-reformulation) to download and install the plugin for query reformulation on Stack Overflow.
+You can use this [link](https://greasyfork.org/en/scripts/403083-query-reformulation-for-stack-overflow) to download and install the plugin for query reformulation on Stack Overflow.
 
 ### Instructions
 

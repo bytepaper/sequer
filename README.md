@@ -18,7 +18,8 @@ For mac users, you should use the "ctrl" key on the right side of "fn" instead o
 
 ### Screenshots
 
-<img src="./screenshots/1.png" width = "400" height = "220" alt=""/><img src="./screenshots/2.png" width = "400" height = "220" alt=""/><img src="./screenshots/3.png" width = "400" height = "220" alt=""/><img src="./screenshots/4.png" width = "400" height = "220" alt=""/><img src="./screenshots/5.png" width = "400" height = "220" alt=""/><img src="./screenshots/6.png" width = "400" height = "220" alt=""/>
+<img src="./screenshots/6.png" width = "600" height = "330" alt=""/>
+<img src="./screenshots/1.gif" width = "800" height = "487" alt=""/>
 
 ## Query Reformulation Examples
 
